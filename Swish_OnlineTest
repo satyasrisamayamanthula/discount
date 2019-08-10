@@ -9,4 +9,4 @@ int main(){
      count++;
   }
   printf("%d \n %d",x,count+2);
-}
+  }
