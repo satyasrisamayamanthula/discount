@@ -8,5 +8,5 @@ int main(){
      x=x*(y/100);
      count++;
   }
-  printf("%d",count+2);
+  printf("%d \n %d",x,count+2);
 }
